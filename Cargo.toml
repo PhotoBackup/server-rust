@@ -1,0 +1,13 @@
+[package]
+
+name = "photobackup"
+version = "0.0.1"
+authors = [ "s13d <sd@s13d.fr>" ]
+
+[dependencies]
+docopt = "0.6.81"
+iron = "0.3.0"
+router = "*"
+rpassword = "0.0.4"
+rust-ini = "*"
+rustc-serialize = "0.3"
