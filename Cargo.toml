@@ -5,9 +5,12 @@ version = "0.0.1"
 authors = [ "s13d <sd@s13d.fr>" ]
 
 [dependencies]
-docopt = "0.6.81"
-iron = "0.3.0"
-router = "*"
-rpassword = "0.0.4"
+bcrypt = "*"
+docopt = "*"
+iron = "0.3.0" 			# to update with iron
+params = "0.2.2" 		# to update with iron
+router = "0.1.1" 		# to update with iron
+rpassword = "*"
+rust-crypto = "*"
 rust-ini = "*"
-rustc-serialize = "0.3"
+rustc-serialize = "*"
